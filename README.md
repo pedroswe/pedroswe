@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedroswe
 - 👀 I’m interested in MobileApps
-- 🌱 I’m currently learning Laravel, Angular and Flutter
+- 🌱 I’m currently developing Laravel, Angular and Flutter Apps
 - 💞️ I’m looking to collaborate on OpenSourceProjects
 
 <!---
